@@ -45,4 +45,13 @@ src="https://img.shields.io/twitter/follow/dylantmarsh?logo=twitter&style=for-th
 
 <p align="left"> <a href="https://www.github.com/dylantmarsh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20840759/dylan-m" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/dylantmarsh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+
+<b>GitHub Stats</b>
+
+<a href="http://www.github.com/dylantmarsh"><img src="https://github-readme-stats.vercel.app/api?username=dylantmarsh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dylantmarsh's GitHub stats" /></a>
+
+<a href="https://github.com/dylantmarsh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylantmarsh&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repository</b>
+
+<div width="100%" align="center"><a href="https://github.com/dylantmarsh/monokai-vibrant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=dylantmarsh&repo=monokai-vibrant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
